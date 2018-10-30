@@ -14,6 +14,8 @@
 		AEEC15A62187EBBF00656127 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEEC15A42187EBBF00656127 /* LaunchScreen.storyboard */; };
 		AEEC15AE2187EFEE00656127 /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEC15AD2187EFEE00656127 /* HomePageViewController.swift */; };
 		AEEC15B02187EFFD00656127 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEC15AF2187EFFD00656127 /* SearchResultsViewController.swift */; };
+		AEEC15B22187F42400656127 /* NYTResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEC15B12187F42400656127 /* NYTResponse.swift */; };
+		AEEC15B42187F62000656127 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEC15B32187F62000656127 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		AEEC15A72187EBBF00656127 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AEEC15AD2187EFEE00656127 /* HomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 		AEEC15AF2187EFFD00656127 /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
+		AEEC15B12187F42400656127 /* NYTResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYTResponse.swift; sourceTree = "<group>"; };
+		AEEC15B32187F62000656127 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				AEEC15982187EBBA00656127 /* AppDelegate.swift */,
 				AEEC159C2187EBBA00656127 /* Main.storyboard */,
 				AEEC15AD2187EFEE00656127 /* HomePageViewController.swift */,
+				AEEC15B12187F42400656127 /* NYTResponse.swift */,
+				AEEC15B32187F62000656127 /* Model.swift */,
 				AEEC15AF2187EFFD00656127 /* SearchResultsViewController.swift */,
 				AEEC15A22187EBBF00656127 /* Assets.xcassets */,
 				AEEC15A42187EBBF00656127 /* LaunchScreen.storyboard */,
@@ -143,6 +149,8 @@
 			files = (
 				AEEC15A12187EBBA00656127 /* Excusify.xcdatamodeld in Sources */,
 				AEEC15B02187EFFD00656127 /* SearchResultsViewController.swift in Sources */,
+				AEEC15B22187F42400656127 /* NYTResponse.swift in Sources */,
+				AEEC15B42187F62000656127 /* Model.swift in Sources */,
 				AEEC15992187EBBA00656127 /* AppDelegate.swift in Sources */,
 				AEEC15AE2187EFEE00656127 /* HomePageViewController.swift in Sources */,
 			);
